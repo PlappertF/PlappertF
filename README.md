@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hej 👋 My name is Felix Plappert. I am a PhD student at Lund University in the field of Biomedical Engineering.
 
 <!--
 **PlappertF/PlappertF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
