@@ -1,8 +1,8 @@
-### Hej 👋 My name is Felix Plappert. I am a PhD student at Lund University in the field of Biomedical Engineering.
+### Hej 👋 My name is Felix Plappert. I am a Postdoctoral researcher at University of California, Irvine in the field of Biomedical Engineering.
 
-- 🔭 I’m currently researching the role of the autonomic nervous system during atrial fibrillation. I am mainly doing advanced signal processing, explorative analysis of clinical data, and statistical modeling.
+- 🔭 I’m currently researching the atrial fibrillation induced cardiac remodeling. I am mainly doing advanced signal processing, explorative analysis of clinical data, and statistical modeling.
 - 👯 I’m always open to discussing collaborations on computational modeling of the cardiovascular system and autonomic nervous system.
-- 📫 How to reach me: felix.plappert@bme.lth.se
+- 📫 How to reach me: fplapper@uci.edu
 <!--
 **PlappertF/PlappertF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
